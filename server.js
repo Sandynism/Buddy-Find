@@ -3,7 +3,7 @@ let bodyParser = require("body-parser")
 let path = require("path")
 
 let app = express()
-let PORT = 3600
+let PORT = process.env.PORT || 3600
 
 // Sets up the Express app to handle data parsing
 app.use(bodyParser.urlencoded({ extended: true }))
