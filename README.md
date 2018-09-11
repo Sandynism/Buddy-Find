@@ -29,4 +29,4 @@ The goal is to create a Friend Finder app (essentially a dating app but for frie
 
 ## Authors
 
-* **Sandy Yeung** - *HTML/JS/Node.js* - [Sandy Yeung](https://github.com/Sandynism)
+* **Sandy Yeung** - *HTML/JS/Node.js* - [Github](https://github.com/Sandynism)
