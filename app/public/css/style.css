@@ -25,3 +25,15 @@ body {
     width: 150px;
     height: 150px;
 }
+
+@media only screen and (max-width: 380px) {
+    .select-wrapper {
+        width: 200px;
+    }
+    .btn-floating.btn-large.halfway-fab {
+        bottom: -250px;
+    }
+    #submit {
+        left: -50px;
+    }
+}
