@@ -13,7 +13,6 @@ The goal is to create a Friend Finder app (essentially a dating app but for frie
 
 ## Technologies used
 
-- Node.js
 - inquirer NPM Package - https://www.npmjs.com/package/inquirer
 - express NPM Package - https://www.npmjs.com/package/express
 - path NPM Package - https://www.npmjs.com/package/path
