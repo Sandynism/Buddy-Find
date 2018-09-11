@@ -5,7 +5,7 @@ The goal is to create a Friend Finder app (essentially a dating app but for frie
 ## Getting Started
 [Click here to view the survey](https://morning-chamber-41149.herokuapp.com/)
 
-## Screen Shots
+## Preview
 
 ![](app/public/images/friendsSS.png)
 
