@@ -2,9 +2,6 @@
 
 The goal is to create a Friend Finder app (essentially a dating app but for friends) using Node and Express servers. The user enters a page that leads to a survey. When the user submits the survey, they are matched with a "friend" that has the closest match to their personality.
 
-## Getting Started
-[Click here to get your match](https://morning-chamber-41149.herokuapp.com/)
-
 ## Preview
 
 ![](app/public/images/friendsSS.png)
